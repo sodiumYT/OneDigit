@@ -1,14 +1,13 @@
-int a, b, c, d, e, f, g, dp;
+#include <OneDigit.h>
 
-a=2;
-b=3;
-c=4;
-d=5;
-e=6;
-f=7;
-g=8;
-dp=13;
-
+int a=2;
+int b=3;
+int c=4;
+int d=5;
+int e=6;
+int f=7;
+int g=8;
+int dp=13;
 
 OneDigit dp(a, b, c, d, e, f, g, dp);
 
